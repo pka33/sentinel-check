@@ -1,4 +1,4 @@
-#sentinel policy
+#sentinel policy to terraform
 provider "aws" {
   region = "us-east-1"
 }
